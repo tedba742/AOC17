@@ -49,4 +49,5 @@ int main() {
     }
 
     std::cout << "Fewest number of steps required to reach the child: " << current.distance() << std::endl;
+    std::cout << "Furthest away he hever came: " << maxDistance;
 }
