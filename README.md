@@ -1,8 +1,11 @@
-Advent of Code 17, will be solved either in C++ or in Python.
+# Advent of Code 17
 
-so far 
+This challenge will be solved either in C++ or in Python.
 
-day 1 - 2/2
-day 2 - 2/2
-day 3 - 1/2
-day 4 - 2/2
+## Progress
+
+- **Day 1**: 2/2
+- **Day 2**: 2/2
+- **Day 3**: 1/2
+- **Day 4**: 2/2
+- **Day 5**: 1/2
