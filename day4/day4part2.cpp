@@ -53,5 +53,4 @@ int main() {
 
     std::cout << "Result: " << count << std::endl;
 
-    return 0;
 }
