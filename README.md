@@ -9,6 +9,6 @@ This challenge will be solved either in C++ or in Python.
 - **Day 3**: 2/2
 - **Day 4**: 2/2
 - **Day 5**: 2/2
-- **Day 6**: 1/2
-- **Day 7**: 1/2
+- **Day 6**: 2/2
+- **Day 7**: 2/2
 
